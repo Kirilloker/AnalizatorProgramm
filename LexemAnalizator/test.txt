@@ -1,0 +1,5 @@
+for (int 1i = X; i < XXsdf; i := i + I) do
+
+for (int 1i = X; i < XX; i := i + I) do
+
+for (int 1i = X; i < XX; i := i + I) do
